@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "68fab447500c9658d95868f9",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$1,695.67",
+    "client": "Hardy Branch",
+    "gender": "male"
+  },
+  {
+    "_id": "68fab44714ed84ac18070226",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,640.07",
+    "client": "Melissa Johns",
+    "gender": "female"
+  },
+  {
+    "_id": "68fab447a2a4eccf44e32d05",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$1,051.52",
+    "client": "Houston Booth",
+    "gender": "male"
+  },
+  {
+    "_id": "68fab4477ca96171ea866f0b",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,858.37",
+    "client": "Lisa Skinner",
+    "gender": "female"
+  },
+  {
+    "_id": "68fab4471d3fe973f8641a65",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$1,536.57",
+    "client": "Mclaughlin Kaufman",
+    "gender": "male"
+  }
+]
